@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html>
+<html> 
+<body background="5.jpg" width="2000"> 
+<-- Aqui va tu contenido --> 
+</body> 
+</html> 
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,14 +24,14 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Title</a>
+					<a class="navbar-brand" href="#">toyotta&&nissan</a>
 				</div>
 		
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-ex1-collapse">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="#">Link</a></li>
-						<li><a href="#">Link</a></li>
+						<li class="active"><a href="#">ingrse</a></li>
+						<li><a href="#">observar</a></li>
 					</ul>
 					<form class="navbar-form navbar-left" role="search">
 						<div class="form-group">
@@ -35,14 +40,14 @@
 						<button type="submit" class="btn btn-default">Submit</button>
 					</form>
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="#">Link</a></li>
+						<li><a href="#">salir</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="#">Action</a></li>
-								<li><a href="#">Another action</a></li>
-								<li><a href="#">Something else here</a></li>
-								<li><a href="#">Separated link</a></li>
+								<li><a href="#">nissan</a></li>
+								<li><a href="#">toyota</a></li>
+								<li><a href="#">lamborguini</a></li>
+								<li><a href="#">ferrary</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -52,28 +57,21 @@
 		<!-- CAROUSEL -->
 		<div id="carousel-id" class="carousel slide" data-ride="carousel">
 			<ol class="carousel-indicators">
-				<li data-target="#carousel-id" data-slide-to="4" class="active"></li>
-				<li data-target="#carousel-id" data-slide-to="5" class="">active</li>
-				<li data-target="#carousel-id" data-slide-to="6
-				" class="active"></li>
-				</ol>
-		
-		
-
+				<li data-target="#carousel-id" data-slide-to="3" class=""></li>
+				<li data-target="#carousel-id" data-slide-to="4" class="" ></li>
+				<li data-target="#carousel-id" data-slide-to="5" class="active"></li>
+			</ol>
 			<div class="carousel-inner">
 				<div class="item">
-					<img data-src="public/imagenes/4.jpg" alt="First slide" src="public/imagenes/4.jpg">
+					<img data-src="public/imagenes/6.jpg" alt="First slide" src="public/imagenes/6.jpg" width="1000">
 					
 				</div>
 				<div class="item">
-					<img data-src="public/imagenes/4.jpg" src="public/imagenes/4.jpg" >
+					<img data-src="public/imagenes/4.jpg" src="public/imagenes/4.jpg" width="1000">
 					
 				</div>
 				<div class="item active">
-					<img data-src="public/imagenes/5.jpg" alt="Third slide" src="public/imagenes/5.jpg">
-					</div>
-				<div class="item active">
-					<img data-src="public/imagenes/6.jsg" alt="Third slide" src="public/imagenes/6.jpg">
+					<img data-src="public/imagenes/3.jpg" alt="Third slide" src="public/imagenes/3.jpg" >
 					
 				</div>
 			</div>
@@ -84,8 +82,11 @@
 	</div>
 
 
-
 	<script src="public/js/jquery-1.12.1.js"></script>
 	<script src="public/js/bootstrap.js"></script>
-</body>
+	
+	    <center><video autiffuer autoloop loop controls autoplay="true" width="600"
+		<source src="public/videos/Camila - Perdón.mp4">
+		
+	</video>
 </html>
